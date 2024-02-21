@@ -46,28 +46,28 @@ The power supply mainly has +-5V, +-12V, but the system only needs a single 5V t
 There's not much to say here, it's all about the circuitry.
 
 The complete circuit board (the graphics card is a purchased 8-bit ISA VGA card)
-![img0](images\20170411_00.jpg)
+![img0](images/20170411_00.jpg)
 
 Motherboard
-![img1](images\20170411_01.jpg)
+![img1](images/20170411_01.jpg)
 
 CPU and DMAC
-![img2](images\20170411_02.jpg)
+![img2](images/20170411_02.jpg)
 
-![img3](images\20170411_03.jpg)
+![img3](images/20170411_03.jpg)
 
 With the graphics card inserted:
-![img4](images\20170411_04.jpg)
+![img4](images/20170411_04.jpg)
 
 Next is the boot process. Since the VGA monitor I found doesn't take good photos, I can only take them at an angle, please don't mind.
 The first three lines are graphics card information (data provided by the BIOS in the graphics card), followed by graphics card error prompts and IO board error prompts, 512KB memory self-test (this self-test is meaningless, as there is no parity check logic)
-![img5](images\20170411_05.jpg)
+![img5](images/20170411_05.jpg)
 
 Next, the system attempts to boot, but unfortunately, I've spent a long time searching and haven't found a good hard disk or floppy disk (8-bit ISA card-driven floppy disks are too hard to find, and I couldn't find a good floppy drive either). I'll update this if I find one later. After waiting for a while, if the system can't find a bootable system, it will directly enter the BASIC interpreter.
-![img6](images\20170411_06.jpg)
+![img6](images/20170411_06.jpg)
 
 Let's try editing and running a program, it still works.
-![img7](images\20170411_07.jpg)
+![img7](images/20170411_07.jpg)
 
 Attachment: [8088 computer.rar (1898 K) ](attachment\20170411_8088_computer.rar)
 
