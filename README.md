@@ -4,6 +4,10 @@ To help friends outside of China better understand the story behind Book 8088, I
 
 为了帮助中国之外的朋友更好地了解Book 8088背后的故事，我将Shan Zhongyu在中国电子爱好者论坛 Mydigit.cn 上相关的帖子摘录于此，这展示了他在过去7年间对IBM PC兼容机架构的探索和尝试，这些尝试最终形成了Book8088的设计方案。
 
+Gitbook: [https://compumuseum.gitbook.io/stories-behind-book8088/](https://compumuseum.gitbook.io/stories-behind-book8088/)
+
+Github: [https://github.com/pengan1987/book8088stories](https://github.com/pengan1987/book8088stories)
+
 ## English （translated by GPT4）
 * 04/11/2017 [DIY Your Own 8088 Vintage Computer, Running BASIC, Capable of Booting DOS](20170411_basic_dos_en.md)
 * 10/18/2018 [Testing a 2018-Made 8-bit CGA Graphics Card Live](20181018_isa_cga_en.md)

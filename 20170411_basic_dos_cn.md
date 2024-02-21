@@ -1,13 +1,13 @@
 # 自己动手制作8088古董电脑，运行BASIC，能引导DOS
 
 Originally posted at April 11, 2017:
-http://bbs.mydigit.cn/read.php?tid=2058263
+[http://bbs.mydigit.cn/read.php?tid=2058263](http://bbs.mydigit.cn/read.php?tid=2058263)
 
 Internet Archive:
-https://web.archive.org/web/20170521052437/http://bbs.mydigit.cn/read.php?tid=2058263
+[https://web.archive.org/web/20170521052437/http://bbs.mydigit.cn/read.php?tid=2058263](https://web.archive.org/web/20170521052437/http://bbs.mydigit.cn/read.php?tid=2058263)
 
 Alternative Link:
-https://www.chinafix.com/thread-1101667-1-1.html
+[https://www.chinafix.com/thread-1101667-1-1.html](https://www.chinafix.com/thread-1101667-1-1.html)
 
 说明：此贴本想发在DIY版块的，但是与此版块其实关系也很大，因为上面使用到的芯片以及技术均是70-80年代相关的，故选择发帖在此处。
 
@@ -46,27 +46,34 @@ BIOS的作用非常重要，因为BIOS中有各种芯片的初始化数据，当
 这个没什么好说了，全是线路。
 
 电路板全貌(显卡是购买的8位ISA显卡，VGA)
+
 ![img0](images/20170411_00.jpg)
 
 主板
+
 ![img1](images/20170411_01.jpg)
 
 CPU和DMAC
+
 ![img2](images/20170411_02.jpg)
 
 ![img3](images/20170411_03.jpg)
 
 插上显卡：
+
 ![img4](images/20170411_04.jpg)
 
 接下来是开机，由于我找的这个VGA显示器拍摄效果不太好，只能斜角度拍，各位看官不要介意。
 前3行是显卡信息（数据由显卡中的BIOS提供），下面是显卡错误提示和IO板错误提示，512KB内存自检（这个自检是没有意义的，因为没有奇偶校验逻辑）
+
 ![img5](images/20170411_05.jpg)
 
 接下来是要开始引导系统的，但是抱歉，我找了好一段时间也没找到好的硬盘或者软盘（8位ISA卡驱动的温盘太难找了，软驱也找不到个好的）。以后找到了在补上吧。这里等了一段时间后系统找不到可引导的系统，就会直接进到BASIC解释器。
+
 ![img6](images/20170411_06.jpg)
 
 编辑一段程序试试，还是可以运行的。
+
 ![img7](images/20170411_07.jpg)
 
 附件： [8088电脑.rar (1898 K) ](https://9game.oss-us-west-1.aliyuncs.com/book8088stories/files/20170411_8088_computer.rar)
