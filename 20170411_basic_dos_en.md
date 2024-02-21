@@ -69,7 +69,7 @@ Next, the system attempts to boot, but unfortunately, I've spent a long time sea
 Let's try editing and running a program, it still works.
 ![img7](images/20170411_07.jpg)
 
-Attachment: [8088 computer.rar (1898 K) ](attachment\20170411_8088_computer.rar)
+Attachment: [8088 computer.rar (1898 K) ](https://9game.oss-us-west-1.aliyuncs.com/book8088stories/files/20170411_8088_computer.rar)
 
 The drawings in the attachment are divided into four parts: the main board, CPU board, DMAC board, and 640KB memory board.
 
@@ -82,4 +82,4 @@ DIY Your Own 8088 Vintage Computer, Running BASIC, Capable of Booting DOS
 
 ====The End, Thank You All=====
 
-[ROM BIOS and BASIC Interpreter Program](attachment\20170411_rom_basic.rar)
+[ROM BIOS and BASIC Interpreter Program](https://9game.oss-us-west-1.aliyuncs.com/book8088stories/files/20170411_rom_basic.rar)

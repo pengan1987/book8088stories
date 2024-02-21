@@ -69,7 +69,7 @@ CPU和DMAC
 编辑一段程序试试，还是可以运行的。
 ![img7](images/20170411_07.jpg)
 
-附件： [8088电脑.rar (1898 K) ](attachment\20170411_8088_computer.rar)
+附件： [8088电脑.rar (1898 K) ](https://9game.oss-us-west-1.aliyuncs.com/book8088stories/files/20170411_8088_computer.rar)
 
 附件中图纸分为4个部分，分别是主板，CPU板，DMAC板和640KB内存板。
 
@@ -82,4 +82,4 @@ RAM板还没制作出来，先来个3D预览吧
 
 ====完，谢谢大家=====
 
-[ROM BIOS和BASIC解释程序](attachment\20170411_rom_basic.rar)
+[ROM BIOS和BASIC解释程序](https://9game.oss-us-west-1.aliyuncs.com/book8088stories/files/20170411_rom_basic.rar)

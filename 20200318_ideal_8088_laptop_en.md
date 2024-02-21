@@ -146,7 +146,7 @@ The small LCD screen is mainly to assist me with writing the keyboard scanning p
 Since this post mainly covers the making process, I plan to write another post specifically for testing and usage later.
 I've attached the drawings for reference. The BIOS was already uploaded in a previous post and hasn't been changed.
 
-[Drawings.rar (72.84 KB)](attachment\20200318_blueprint.rar)
+[Drawings.rar (72.84 KB)](https://9game.oss-us-west-1.aliyuncs.com/book8088stories/files/20200318_blueprint.rar)
 
 A few days have passed since completing the post, and I've already started working on a 7-inch portable laptop. It will be more integrated but also more stable. I don't only research vintage 8088 computers; I enjoy DIY laptops, and platforms like 915PM, 945PM, PM965, PM45 are all within my DIY range. It's just that drawing takes a lot of time. If there are friends who like DIY, we can research together.
 
