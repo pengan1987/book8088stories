@@ -90,34 +90,43 @@ With the preparation done, it's time to start designing the motherboard based on
 The motherboard power section, each power route has current detection for easy consumption testing.
 
 ![img12](images/20200318_12.jpg)
+
 IO decoding and UART
 
 ![img13](images/20200318_13.png)
+
 FDC
 
 ![img14](images/20200318_14.png)
+
 Other parts of the drawings are too many, so I've put them all in the attachment for reference.
 
 2. Designing the PCB. Routing was a headache, but thankfully, the board was big enough for easy layout.
 
 ![img15](images/20200318_15.jpg)
+
 3D preview, not all library components rendered
 
 ![img16](images/20200318_16.jpg)
+
 After waiting 5 days, the boards finally arrived. I couldn't wait to start soldering.
 
 First, soldering the graphics card:
 
 ![img17](images/20200318_17.jpg)
+
 Another view from the back
 
 ![img18](images/20200318_18.jpg)
+
 Motherboard soldering:
 
 ![img19](images/20200318_19.jpg)
+
 Checking for cold solder joints under a magnifying glass:
 
 ![img20](images/20200318_20.jpg)
+
 Here came the most unfortunate event of the entire project. After soldering for 6 hours, the system didn't work. I spent another two hours desoldering components one by one for troubleshooting without finding the issue. It was late at night, so I had to wait until the next day to continue.
 
 The next day, with no other option, I had to cut all the lines and use the minimal system approach to slowly eliminate potential issues. Finally, I found the problem was that the CPU socket was mirrored. I had to make a new board.
